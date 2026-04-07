@@ -1,0 +1,199 @@
+2025-12-03 15:23:11,834 - INFO - Monitor started, duration: 300s
+2025-12-03 15:24:40,108 - INFO - Monitor already running
+2025-12-03 15:25:55,771 - INFO - Monitor stopped manually
+2025-12-03 15:26:20,951 - INFO - Monitor started, duration: 300s
+2025-12-03 15:26:21,139 - ERROR - Monitor error: 'DataCollector' object has no attribute 'latest_logs'
+2025-12-03 15:28:31,140 - INFO - Monitor started, duration: 300s
+2025-12-03 15:29:05,270 - ERROR - Monitor error: 基线日志不足，无法训练模型
+2025-12-03 15:34:28,383 - INFO - Monitor started, duration: 300s
+2025-12-03 15:35:11,626 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:35:21,435 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:35:21,438 - WARNING - Resource anomaly detected
+2025-12-03 15:35:31,262 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:35:31,265 - WARNING - Resource anomaly detected
+2025-12-03 15:35:40,994 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:35:40,997 - WARNING - Resource anomaly detected
+2025-12-03 15:35:52,464 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:35:52,467 - WARNING - Resource anomaly detected
+2025-12-03 15:36:02,275 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:36:02,278 - WARNING - Resource anomaly detected
+2025-12-03 15:36:12,109 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:36:12,111 - WARNING - Resource anomaly detected
+2025-12-03 15:36:21,174 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:36:21,177 - WARNING - Resource anomaly detected
+2025-12-03 15:36:30,939 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:36:30,943 - WARNING - Resource anomaly detected
+2025-12-03 15:36:39,952 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:36:39,956 - WARNING - Resource anomaly detected
+2025-12-03 15:36:52,657 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:36:52,662 - WARNING - Resource anomaly detected
+2025-12-03 15:37:02,829 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:37:02,833 - WARNING - Resource anomaly detected
+2025-12-03 15:37:14,442 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:37:14,445 - WARNING - Resource anomaly detected
+2025-12-03 15:37:26,675 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:37:26,679 - WARNING - Resource anomaly detected
+2025-12-03 15:37:38,780 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:37:38,783 - WARNING - Resource anomaly detected
+2025-12-03 15:37:48,821 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:37:48,824 - WARNING - Resource anomaly detected
+2025-12-03 15:38:00,666 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:38:00,670 - WARNING - Resource anomaly detected
+2025-12-03 15:38:13,461 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:38:13,466 - WARNING - Resource anomaly detected
+2025-12-03 15:38:24,891 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:38:24,893 - WARNING - Resource anomaly detected
+2025-12-03 15:38:38,379 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:38:38,380 - WARNING - Resource anomaly detected
+2025-12-03 15:38:51,733 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:38:51,736 - WARNING - Resource anomaly detected
+2025-12-03 15:39:03,581 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:39:03,584 - WARNING - Resource anomaly detected
+2025-12-03 15:39:14,744 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:39:14,747 - WARNING - Resource anomaly detected
+2025-12-03 15:39:25,628 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:39:25,631 - WARNING - Resource anomaly detected
+2025-12-03 15:39:37,382 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:39:37,385 - WARNING - Resource anomaly detected
+2025-12-03 15:39:40,175 - ERROR - Monitor error: module 'datetime' has no attribute 'fromtimestamp'
+2025-12-03 15:47:29,963 - INFO - Monitor started, duration: 300s
+2025-12-03 15:48:12,521 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:48:21,542 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:48:30,656 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:48:39,030 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:48:47,552 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:48:57,403 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:49:05,464 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:49:15,326 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:49:25,101 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:49:34,409 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:49:43,389 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:49:53,102 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:50:02,127 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:50:11,121 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:50:20,814 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:50:30,368 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:50:39,919 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:50:49,266 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:50:58,188 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:51:06,656 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:51:15,244 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:51:24,567 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:51:34,230 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:51:43,684 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:51:52,282 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:52:02,028 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:52:10,807 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:52:18,573 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:52:27,831 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:52:36,521 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 15:52:41,077 - ERROR - Monitor error: module 'datetime' has no attribute 'fromtimestamp'
+2025-12-03 15:54:47,659 - INFO - Monitor started, duration: 10s
+2025-12-03 15:55:24,239 - ERROR - Monitor error: ReportGenerator._generate_txt_report() takes 1 positional argument but 3 were given
+2025-12-03 15:56:48,634 - INFO - Monitor started, duration: 10s
+2025-12-03 15:57:25,254 - INFO - Monitor completed, results generated
+2025-12-03 15:57:25,255 - INFO - Raw data saved to: ./data/raw_data.json
+2025-12-03 16:32:45,454 - INFO - Monitor started, duration: 300s
+2025-12-03 16:33:31,723 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:33:46,106 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:33:58,836 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:34:11,506 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:34:24,042 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:34:36,768 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:34:49,853 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:34:49,855 - WARNING - Abnormal logs detected: 30
+2025-12-03 16:35:03,784 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:35:03,787 - WARNING - Abnormal logs detected: 32
+2025-12-03 16:35:16,960 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:35:30,845 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:35:42,339 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:35:54,888 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:36:06,622 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:36:06,625 - WARNING - Abnormal logs detected: 6
+2025-12-03 16:36:16,700 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:36:26,142 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:36:36,463 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:36:47,020 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:36:56,833 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:37:06,161 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:37:15,603 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:37:24,787 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:37:33,979 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:37:43,946 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:37:53,844 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-03 16:37:57,330 - INFO - Monitor completed, results generated
+2025-12-03 16:37:57,333 - INFO - Raw data saved to: ./data/raw_data.json
+2025-12-09 20:59:54,330 - INFO - Monitor started, duration: 800s
+2025-12-09 21:00:40,269 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:00:52,654 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:01:06,776 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:01:19,185 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:01:32,512 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:01:45,438 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:01:57,568 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:02:10,018 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:02:23,497 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:02:35,470 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:02:47,923 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:02:59,634 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:03:12,716 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:03:25,537 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:03:38,128 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:03:51,199 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:04:02,701 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:04:14,688 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:04:27,091 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:04:40,134 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:04:53,569 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:05:06,244 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:05:18,369 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:05:29,671 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:05:42,122 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:05:54,501 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:06:06,584 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:06:06,589 - WARNING - Resource anomaly detected
+2025-12-09 21:06:18,395 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:06:30,735 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:06:42,048 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:06:54,473 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:07:05,689 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:07:19,304 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:07:31,863 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:07:42,958 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:07:42,961 - WARNING - Resource anomaly detected
+2025-12-09 21:07:53,630 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:07:53,633 - WARNING - Resource anomaly detected
+2025-12-09 21:08:06,020 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:08:06,025 - WARNING - Resource anomaly detected
+2025-12-09 21:08:17,441 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:08:17,445 - WARNING - Resource anomaly detected
+2025-12-09 21:08:30,143 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:08:41,847 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:08:53,423 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:09:07,085 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:09:20,726 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:09:32,507 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:09:44,002 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:09:56,335 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:09:56,336 - WARNING - Resource anomaly detected
+2025-12-09 21:10:08,586 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:10:17,822 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:10:29,241 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:10:41,630 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:10:52,894 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:11:04,486 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:11:17,045 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:11:30,340 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:11:41,953 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:11:52,564 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:12:05,056 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:12:05,059 - WARNING - Resource anomaly detected
+2025-12-09 21:12:18,202 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:12:31,422 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:12:43,391 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:12:56,539 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:13:07,812 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:13:07,817 - WARNING - Resource anomaly detected
+2025-12-09 21:13:17,471 - INFO - HTTP Request: POST http://127.0.0.1:6006/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-09 21:13:21,939 - INFO - Monitor completed, results generated
+2025-12-09 21:13:21,943 - INFO - Raw data saved to: ./data/raw_data.json
